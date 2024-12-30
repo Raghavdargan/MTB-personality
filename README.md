@@ -14,7 +14,6 @@ This project aims to predict Myers-Briggs Type Indicator (MBTI) personality type
 - **Feature Representation:** Implemented Bag of Words model for efficient feature representation.
 - **Testing and Evaluation:** Conducted rigorous testing and evaluation, achieving a high accuracy of 75% on unseen data which is quite good for basic Naive Bayes.
 
-- 
 ## Acknowledgments
 
 - [NLTK Documentation](https://www.nltk.org/)
